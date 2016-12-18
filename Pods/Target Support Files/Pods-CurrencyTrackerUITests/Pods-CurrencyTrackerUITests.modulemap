@@ -1,0 +1,6 @@
+framework module Pods_CurrencyTrackerUITests {
+  umbrella header "Pods-CurrencyTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
