@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '96EDCA358E5EA80F744F20839B8EE4BF'
+               BlueprintIdentifier = '0C5C6D5A904661BFCEDF6DA1CF0BF61D'
                BlueprintName = 'Pods-CurrencyTracker'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-CurrencyTracker.framework'>
